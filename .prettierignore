@@ -1,0 +1,12 @@
+node_modules
+dist
+build
+coverage
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+vite.config.js 
+eslint.config.js
+.prettierrc
+README.md
+package.json
